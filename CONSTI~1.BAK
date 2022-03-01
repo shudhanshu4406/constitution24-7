@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+#include<sourceconstitution.h>
+void main()
+{
+reglog();
+getch();
+}
+
